@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi_restfull_crud", "webapi_restfull_crud\webapi_restfull_crud.csproj", "{15743C12-0F6D-453F-8978-814C63C0146B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppCrudNetCore5", "..\WebAppCrudNetCore5\WebAppCrudNetCore5\WebAppCrudNetCore5.csproj", "{9EE61C0C-B3E4-4653-8EA1-FA4D0A4EA5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15743C12-0F6D-453F-8978-814C63C0146B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15743C12-0F6D-453F-8978-814C63C0146B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15743C12-0F6D-453F-8978-814C63C0146B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15743C12-0F6D-453F-8978-814C63C0146B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE61C0C-B3E4-4653-8EA1-FA4D0A4EA5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE61C0C-B3E4-4653-8EA1-FA4D0A4EA5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE61C0C-B3E4-4653-8EA1-FA4D0A4EA5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE61C0C-B3E4-4653-8EA1-FA4D0A4EA5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5681C7A-1E2E-4C9A-966A-0056BF240C89}
+	EndGlobalSection
+EndGlobal
